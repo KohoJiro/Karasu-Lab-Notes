@@ -23,4 +23,4 @@ This project is currently in the **Procurement & Staging Phase**.
 * **Status:** PENDING PROCUREMENT
 
 ## 📂 Documentation
-Daily progress logs, technical hurdles, and configuration steps are documented in the [Lab Notes](https://github.com/KohoJiro/Karasu-Lab-Notes/blob/main/Project-Karasu)
+Daily progress logs, technical hurdles, and configuration steps are documented in the [Lab Notes](./Project-Karasu)
